@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf6c403b-4c7b-429a-a2f3-ead9db712b95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prj 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prjct2.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf6c403b-4c7b-429a-a2f3-ead9db712b95" name="Changes" comment="prct 2 committed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +42,28 @@
       <option name="presentableId" value="Default" />
       <updated>1689759300555</updated>
     </task>
+    <task id="LOCAL-00001" summary="prct 2 committed">
+      <option name="closed" value="true" />
+      <created>1689760437001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689760437001</updated>
+    </task>
+    <task id="LOCAL-00002" summary="prct 2 committed">
+      <option name="closed" value="true" />
+      <created>1689760478933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689760478933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prct 2 committed" />
+    <option name="LAST_COMMIT_MESSAGE" value="prct 2 committed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
