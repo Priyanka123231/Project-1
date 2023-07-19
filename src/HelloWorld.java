@@ -2,7 +2,7 @@ class sample
 {
     final void brake()
     {
-        System.out.println("brake used is disc gear");
+        System.out.println("brake used is disc brake");
     }
     final void clutch()
     {
@@ -20,12 +20,20 @@ class honda extends sample
     {
         System.out.println("Colour is black");
     }
+    void engine()
+    {
+        System.out.println("V Engine ");
+    }
 }
 class maruthi extends sample
 {
     void color()
     {
         System.out.println("Colour is white ");
+    }
+    void engine()
+    {
+        System.out.println("W Engine ");
     }
 }
 class HelloWorld {
@@ -38,11 +46,13 @@ class HelloWorld {
         a.clutch();
         a.accelerator();
         a.color();
+        a.engine();
         System.out.println("maruthi car details");
         m.brake();
         m.clutch();
         m.accelerator();
         m.color();
+        m.engine();
 
     }
 }
